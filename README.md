@@ -1,9 +1,9 @@
 # wellcome-php
 <br><br>
-Practicing PHP
+Updating #php skills
 <br><br>
 PHPUnit<br>
 Composer<br>
 Unit & Integration Testing<br>
 DDD Approach<br>
-CleanArchitecture
+Clean Architecture
